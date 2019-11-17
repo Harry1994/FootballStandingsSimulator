@@ -1,0 +1,16 @@
+                                           Matches         Goals           Match     Goal
+
+Team           Rank      Won       Draw      Lost      For       Against   Points    Diff      Medal     
+
+Juventus       1         3         2         0         19        11        11        8         Gold      
+
+Celtic         2         2         2         1         12        8         8         4         Silver    
+
+Paok           3         2         0         3         7         5         6         2         Bronze    
+
+Milan          4         0         2         3         6         9         2         -3                  
+
+Olympiakos     5         0         2         3         9         14        2         -5                  
+
+Rangers        6         0         0         5         6         12        0         -6                  
+
